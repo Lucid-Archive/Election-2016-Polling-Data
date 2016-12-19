@@ -1,0 +1,294 @@
+question_name,question_text,answer_code,answer_text
+gender_code,What is your gender?,1,Male
+gender_code,What is your gender?,2,Female
+party_affiliation_code,"Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Independent, or what?",1,Republican
+party_affiliation_code,"Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Independent, or what?",2,Democrat
+party_affiliation_code,"Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Independent, or what?",3,Independent
+party_affiliation_code,"Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Independent, or what?",4,Other
+republican_strength_code,Would you call yourself a strong Republican or a not very strong Republican?,1,Strong Republican
+republican_strength_code,Would you call yourself a strong Republican or a not very strong Republican?,2,Not very strong Republican
+democrat_strength_code,Would you call yourself a strong Democrat or a not very strong Democrat?,1,Strong Democrat
+democrat_strength_code,Would you call yourself a strong Democrat or a not very strong Democrat?,2,Not very strong Democrat
+independent_lean_code,Do you think of yourself as closer to the Republican or Democratic party?,1,Closer to the Republican party
+independent_lean_code,Do you think of yourself as closer to the Republican or Democratic party?,2,Closer to the Democratic party
+independent_lean_code,Do you think of yourself as closer to the Republican or Democratic party?,3,Neither
+voter_registration_code,Are you registered to vote?,1,Yes
+voter_registration_code,Are you registered to vote?,2,No
+voter_intent_code,How likely are you to vote in the upcoming November Presidential election?,1,Definitely Will Vote
+voter_intent_code,How likely are you to vote in the upcoming November Presidential election?,2,Probably Will Vote
+voter_intent_code,How likely are you to vote in the upcoming November Presidential election?,3,Probably Will Not Vote
+voter_intent_code,How likely are you to vote in the upcoming November Presidential election?,4,Definitely Will Not Vote
+president,"Thinking about the upcoming Presidential election, if it were held today, who would you vote for?",1,"Hillary Clinton, the Democratic Party Candidate"
+president,"Thinking about the upcoming Presidential election, if it were held today, who would you vote for?",2,"Donald Trump, the Republican Party Candidate"
+president,"Thinking about the upcoming Presidential election, if it were held today, who would you vote for?",3,"Gary Johnson, the Libertarian Party Candidate"
+president,"Thinking about the upcoming Presidential election, if it were held today, who would you vote for?",4,"Jill Stein, the Green Party Candidate"
+president,"Thinking about the upcoming Presidential election, if it were held today, who would you vote for?",5,Not sure
+president_lean,Who are you leaning toward?,1,"Hillary Clinton, the Democratic Party Candidate"
+president_lean,Who are you leaning toward?,2,"Donald Trump, the Republican Party Candidate"
+president_lean,Who are you leaning toward?,3,"Gary Johnson, the Libertarian Party Candidate"
+president_lean,Who are you leaning toward?,4,"Jill Stein, the Green Party Candidate"
+president_lean,Who are you leaning toward?,5,Undecided
+senate_arizona,"Thinking now about the upcoming election for US Senate in Arizona, if it were held today who would you vote for?",1,"Ann Kirkpatrick, the Democratic Party Candidate"
+senate_arizona,"Thinking now about the upcoming election for US Senate in Arizona, if it were held today who would you vote for?",2,"John McCain, the Republican Party Candidate"
+senate_arizona,"Thinking now about the upcoming election for US Senate in Arizona, if it were held today who would you vote for?",3,Not Sure
+senate_arizona_lean,Who are you leaning toward?,1,"Ann Kirkpatrick, the Democratic Party Candidate"
+senate_arizona_lean,Who are you leaning toward?,2,"John McCain, the Republican Party Candidate"
+senate_arizona_lean,Who are you leaning toward?,3,Undecided
+senate_colorado,"Thinking now about the upcoming election for US Senate in Colorado, if it were held today who would you vote for?",1,"Michael Bennet, the Democratic Party Candidate"
+senate_colorado,"Thinking now about the upcoming election for US Senate in Colorado, if it were held today who would you vote for?",2,"Darryl Glenn, the Republican Party Candidate"
+senate_colorado,"Thinking now about the upcoming election for US Senate in Colorado, if it were held today who would you vote for?",3,Not Sure
+senate_colorado_lean,Who are you leaning toward?,1,"Michael Bennet, the Democratic Party Candidate"
+senate_colorado_lean,Who are you leaning toward?,2,"Darryl Glenn, the Republican Party Candidate"
+senate_colorado_lean,Who are you leaning toward?,3,Undecided
+senate_florida,"Thinking now about the upcoming election for US Senate in Florida, if it were held today who would you vote for?",1,"Patrick Murphy, the Democratic Party Candidate"
+senate_florida,"Thinking now about the upcoming election for US Senate in Florida, if it were held today who would you vote for?",2,"Marco Rubio, the Republican Party Candidate"
+senate_florida,"Thinking now about the upcoming election for US Senate in Florida, if it were held today who would you vote for?",3,Not Sure
+senate_florida_lean,Who are you leaning toward?,1,"Patrick Murphy, the Democratic Party Candidate"
+senate_florida_lean,Who are you leaning toward?,2,"Marco Rubio, the Republican Party Candidate"
+senate_florida_lean,Who are you leaning toward?,3,Undecided
+senate_iowa,"Thinking now about the upcoming election for US Senate in Iowa, if it were held today who would you vote for?",1,"Patty Judge, the Democratic Party Candidate"
+senate_iowa,"Thinking now about the upcoming election for US Senate in Iowa, if it were held today who would you vote for?",2,"Chuck Grassley, the Republican Party Candidate"
+senate_iowa,"Thinking now about the upcoming election for US Senate in Iowa, if it were held today who would you vote for?",3,Not Sure
+senate_iowa_lean,Who are you leaning toward?,1,"Patty Judge, the Democratic Party Candidate"
+senate_iowa_lean,Who are you leaning toward?,2,"Chuck Grassley, the Republican Party Candidate"
+senate_iowa_lean,Who are you leaning toward?,3,Undecided
+senate_nevada,"Thinking now about the upcoming election for US Senate in Nevada, if it were held today who would you vote for?",1,"Catherine Cortez Masto, the Democratic Party Candidate"
+senate_nevada,"Thinking now about the upcoming election for US Senate in Nevada, if it were held today who would you vote for?",2,"Joe Heck, the Republican Party Candidate"
+senate_nevada,"Thinking now about the upcoming election for US Senate in Nevada, if it were held today who would you vote for?",3,Not Sure
+senate_nevada_lean,Who are you leaning toward?,1,"Catherine Cortez Masto, the Democratic Party Candidate"
+senate_nevada_lean,Who are you leaning toward?,2,"Joe Heck, the Republican Party Candidate"
+senate_nevada_lean,Who are you leaning toward?,3,Undecided
+senate_new_hampshire,"Thinking now about the upcoming election for US Senate in New Hampshire, if it were held today who would you vote for?",1,"Maggie Hassan, the Democratic Party Candidate"
+senate_new_hampshire,"Thinking now about the upcoming election for US Senate in New Hampshire, if it were held today who would you vote for?",2,"Kelly Ayotte, the Republican Party Candidate"
+senate_new_hampshire,"Thinking now about the upcoming election for US Senate in New Hampshire, if it were held today who would you vote for?",3,Not Sure
+senate_new_hampshire_lean,Who are you leaning toward?,1,"Maggie Hassan, the Democratic Party Candidate"
+senate_new_hampshire_lean,Who are you leaning toward?,2,"Kelly Ayotte, the Republican Party Candidate"
+senate_new_hampshire_lean,Who are you leaning toward?,3,Undecided
+senate_north_carolina,"Thinking now about the upcoming election for US Senate in North Carolina, if it were held today who would you vote for?",1,"Deborah Ross, the Democratic Party Candidate"
+senate_north_carolina,"Thinking now about the upcoming election for US Senate in North Carolina, if it were held today who would you vote for?",2,"Richard Burr, the Republican Party Candidate"
+senate_north_carolina,"Thinking now about the upcoming election for US Senate in North Carolina, if it were held today who would you vote for?",3,Not Sure
+senate_north_carolina_lean,Who are you leaning toward?,1,"Deborah Ross, the Democratic Party Candidate"
+senate_north_carolina_lean,Who are you leaning toward?,2,"Richard Burr, the Republican Party Candidate"
+senate_north_carolina_lean,Who are you leaning toward?,3,Undecided
+governor_north_carolina,"Thinking now about upcoming election for Governor in North Carolina, if it were held today who would you vote for?",1,"Roy Cooper, the Democratic Party Candidate"
+governor_north_carolina,"Thinking now about upcoming election for Governor in North Carolina, if it were held today who would you vote for?",2,"Pat McCrory, the Republican Party Candidate"
+governor_north_carolina,"Thinking now about upcoming election for Governor in North Carolina, if it were held today who would you vote for?",3,Not Sure
+governor_north_carolina_lean,Who are you leaning toward?,1,"Roy Cooper, the Democratic Party Candidate"
+governor_north_carolina_lean,Who are you leaning toward?,2,"Pat McCrory, the Republican Party Candidate"
+governor_north_carolina_lean,Who are you leaning toward?,3,Undecided
+senate_ohio,"Thinking now about the upcoming election for US Senate in Ohio, if it were held today who would you vote for?",1,"Ted Strickland, the Democratic Party Candidate"
+senate_ohio,"Thinking now about the upcoming election for US Senate in Ohio, if it were held today who would you vote for?",2,"Rob Portman, the Republican Party Candidate"
+senate_ohio,"Thinking now about the upcoming election for US Senate in Ohio, if it were held today who would you vote for?",3,Not Sure
+senate_ohio_lean,Who are you leaning toward?,1,"Ted Strickland, the Democratic Party Candidate"
+senate_ohio_lean,Who are you leaning toward?,2,"Rob Portman, the Republican Party Candidate"
+senate_ohio_lean,Who are you leaning toward?,3,Undecided
+senate_pennsylvania,"Thinking now about the upcoming election for US Senate in Pennsylvania, if it were held today who would you vote for?",1,"Katie McGinty, the Democratic Party Candidate"
+senate_pennsylvania,"Thinking now about the upcoming election for US Senate in Pennsylvania, if it were held today who would you vote for?",2,"Pat Toomey, the Republican Party Candidate"
+senate_pennsylvania,"Thinking now about the upcoming election for US Senate in Pennsylvania, if it were held today who would you vote for?",3,Not Sure
+senate_pennsylvania_lean,Who are you leaning toward?,1,"Katie McGinty, the Democratic Party Candidate"
+senate_pennsylvania_lean,Who are you leaning toward?,2,"Pat Toomey, the Republican Party Candidate"
+senate_pennsylvania_lean,Who are you leaning toward?,3,Undecided
+senate_wisconsin,"Thinking now about the upcoming election for US Senate in Wisconsin, if it were held today who would you vote for?",1,"Russ Feingold, the Democratic Party Candidate"
+senate_wisconsin,"Thinking now about the upcoming election for US Senate in Wisconsin, if it were held today who would you vote for?",2,"Ron Johnson, the Republican Party Candidate"
+senate_wisconsin,"Thinking now about the upcoming election for US Senate in Wisconsin, if it were held today who would you vote for?",3,Not Sure
+senate_wisconsin_lean,Who are you leaning toward?,1,"Russ Feingold, the Democratic Party Candidate"
+senate_wisconsin_lean,Who are you leaning toward?,2,"Ron Johnson, the Republican Party Candidate"
+senate_wisconsin_lean,Who are you leaning toward?,3,Undecided
+senate_california,"Thinking now about the upcoming election for US Senate in California, if it were held today who would you vote for?",1,"Kamala Harris, a Democratic Party Candidate"
+senate_california,"Thinking now about the upcoming election for US Senate in California, if it were held today who would you vote for?",2,"Loretta Sànchez, a Democratic Party Candidate"
+senate_california,"Thinking now about the upcoming election for US Senate in California, if it were held today who would you vote for?",3,Not Sure
+senate_california_lean,Who are you leaning toward?,1,"Kamala Harris, a Democratic Party Candidate"
+senate_california_lean,Who are you leaning toward?,2,"Loretta Sànchez, a Democratic Party Candidate"
+senate_california_lean,Who are you leaning toward?,3,Undecided
+senate_georgia,"Thinking now about the upcoming election for US Senate in Georgia, if it were held today who would you vote for?",1,"Jim Barksdale, the Democratic Party Candidate"
+senate_georgia,"Thinking now about the upcoming election for US Senate in Georgia, if it were held today who would you vote for?",2,"Johnny Isakson, the Republican Party Candidate"
+senate_georgia,"Thinking now about the upcoming election for US Senate in Georgia, if it were held today who would you vote for?",3,Not Sure
+senate_georgia_lean,Who are you leaning toward?,1,"Jim Barksdale, the Democratic Party Candidate"
+senate_georgia_lean,Who are you leaning toward?,2,"Johnny Isakson, the Republican Party Candidate"
+senate_georgia_lean,Who are you leaning toward?,3,Undecided
+senate_illinois,"Thinking now about the upcoming election for US Senate in Illinois, if it were held today who would you vote for?",1,"Tammy Duckworth, the Democratic Party Candidate"
+senate_illinois,"Thinking now about the upcoming election for US Senate in Illinois, if it were held today who would you vote for?",2,"Mark Kirk, the Republican Party Candidate"
+senate_illinois,"Thinking now about the upcoming election for US Senate in Illinois, if it were held today who would you vote for?",3,Not Sure
+senate_illinois_lean,Who are you leaning toward?,1,"Tammy Duckworth, the Democratic Party Candidate"
+senate_illinois_lean,Who are you leaning toward?,2,"Mark Kirk, the Republican Party Candidate"
+senate_illinois_lean,Who are you leaning toward?,3,Undecided
+senate_indiana,"Thinking now about the upcoming election for US Senate in Indiana, if it were held today who would you vote for?",1,"Evan Bayh, the Democratic Party Candidate"
+senate_indiana,"Thinking now about the upcoming election for US Senate in Indiana, if it were held today who would you vote for?",2,"Todd Young, the Republican Party Candidate"
+senate_indiana,"Thinking now about the upcoming election for US Senate in Indiana, if it were held today who would you vote for?",3,Not Sure
+senate_indiana_lean,Who are you leaning toward?,1,"Evan Bayh, the Democratic Party Candidate"
+senate_indiana_lean,Who are you leaning toward?,2,"Todd Young, the Republican Party Candidate"
+senate_indiana_lean,Who are you leaning toward?,3,Undecided
+senate_kansas,"Thinking now about the upcoming election for US Senate in Kansas, if it were held today who would you vote for?",1,"Patrick Wiesner, the Democratic Party Candidate"
+senate_kansas,"Thinking now about the upcoming election for US Senate in Kansas, if it were held today who would you vote for?",2,"Jerry Moran, the Republican Party Candidate"
+senate_kansas,"Thinking now about the upcoming election for US Senate in Kansas, if it were held today who would you vote for?",3,Not Sure
+senate_kansas_lean,Who are you leaning toward?,1,"Patrick Wiesner, the Democratic Party Candidate"
+senate_kansas_lean,Who are you leaning toward?,2,"Jerry Moran, the Republican Party Candidate"
+senate_kansas_lean,Who are you leaning toward?,3,Undecided
+senate_kentucky,"Thinking now about the upcoming election for US Senate in Kentucky, if it were held today who would you vote for?",1,"Jim Gray, the Democratic Party Candidate"
+senate_kentucky,"Thinking now about the upcoming election for US Senate in Kentucky, if it were held today who would you vote for?",2,"Rand Paul, the Republican Party Candidate"
+senate_kentucky,"Thinking now about the upcoming election for US Senate in Kentucky, if it were held today who would you vote for?",3,Not Sure
+senate_kentucky_lean,Who are you leaning toward?,1,"Jim Gray, the Democratic Party Candidate"
+senate_kentucky_lean,Who are you leaning toward?,2,"Rand Paul, the Republican Party Candidate"
+senate_kentucky_lean,Who are you leaning toward?,3,Undecided
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",1,"Caroline Fayard, a Democratic Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",2,"Foster Campbell, a Democratic Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",3,"Derrick Edwards, a Democratic Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",4,"Josh Pellerin, a Democratic Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",5,"John Fleming, a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",6,"Charles Boustany, Jr., a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",7,"Rob Maness, a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",8,"Joseph Cao, a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",9,"John Kennedy, a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",10,"Abhay Patel, a Republican Party Candidate"
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",11,Not Sure
+senate_louisiana,"If the November 2016 primary election for United States Senate were held today, for whom would you vote if the candidates were:",12,"David Duke, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,1,"Caroline Fayard, a Democratic Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,2,"Foster Campbell, a Democratic Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,3,"Derrick Edwards, a Democratic Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,4,"Josh Pellerin, a Democratic Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,5,"John Fleming, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,6,"Charles Boustany, Jr., a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,7,"Rob Maness, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,8,"Joseph Cao, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,9,"John Kennedy, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,10,"Abhay Patel, a Republican Party Candidate"
+senate_louisiana_lean,Who are you leaning toward?,11,Unsure
+senate_louisiana_lean,Who are you leaning toward?,12,"David Duke, a Republican Party Candidate"
+senate_missouri,"Thinking now about the upcoming election for US Senate in Missouri, if it were held today who would you vote for?",1,"Jason Kander, the Democratic Party Candidate"
+senate_missouri,"Thinking now about the upcoming election for US Senate in Missouri, if it were held today who would you vote for?",2,"Roy Blunt, the Republican Party Candidate"
+senate_missouri,"Thinking now about the upcoming election for US Senate in Missouri, if it were held today who would you vote for?",3,Not Sure
+senate_missouri_lean,Who are you leaning toward?,1,"Jason Kander, the Democratic Party Candidate"
+senate_missouri_lean,Who are you leaning toward?,2,"Roy Blunt, the Republican Party Candidate"
+senate_missouri_lean,Who are you leaning toward?,3,Undecided
+senate_utah,"Thinking now about the upcoming election for US Senate in Utah, if it were held today who would you vote for?",1,"Misty Snow, the Democratic Party Candidate"
+senate_utah,"Thinking now about the upcoming election for US Senate in Utah, if it were held today who would you vote for?",2,"Mike Lee, the Republican Party Candidate"
+senate_utah,"Thinking now about the upcoming election for US Senate in Utah, if it were held today who would you vote for?",3,Not Sure
+senate_utah_lean,Who are you leaning toward?,1,"Misty Snow, the Democratic Party Candidate"
+senate_utah_lean,Who are you leaning toward?,2,"Mike Lee, the Republican Party Candidate"
+senate_utah_lean,Who are you leaning toward?,3,Undecided
+education_code,What is the highest level of education you have completed?,-3105,None of the above
+education_code,What is the highest level of education you have completed?,1,Some high school or less
+education_code,What is the highest level of education you have completed?,2,High school graduate
+education_code,What is the highest level of education you have completed?,3,Other post high school vocational training
+education_code,What is the highest level of education you have completed?,4,"Completed some college, but no degree"
+education_code,What is the highest level of education you have completed?,5,Associate's degree
+education_code,What is the highest level of education you have completed?,6,Bachelor's degree
+education_code,What is the highest level of education you have completed?,7,Master's or professional degree
+education_code,What is the highest level of education you have completed?,8,Doctorate degree
+household_income_code,How much total combined income do all members of your household earn before taxes?,1,"Less than $14,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,2,"$15,000 to $19,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,3,"$20,000 to $24,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,4,"$25,000 to $29,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,5,"$30,000 to $34,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,6,"$35,000 to $39,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,7,"$40,000 to $44,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,8,"$45,000 to $49,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,9,"$50,000 to $54,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,10,"$55,000 to $59,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,11,"$60,000 to $64,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,12,"$65,000 to $69,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,13,"$70,000 to $74,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,14,"$75,000 to $79,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,15,"$80,000 to $84,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,16,"$85,000 to $89,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,17,"$90,000 to $94,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,18,"$95,000 to $99,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,19,"$100,000 to $124,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,20,"$125,000 to $149,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,21,"$150,000 to $174,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,22,"$175,000 to $199,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,23,"$200,000 to $249,999"
+household_income_code,How much total combined income do all members of your household earn before taxes?,24,"$250,000 and above"
+household_income_code,How much total combined income do all members of your household earn before taxes?,25,Prefer not to answer
+state_code,,0,NOT APPLICABLE
+state_code,,1,ALABAMA
+state_code,,2,ALASKA
+state_code,,3,ARIZONA
+state_code,,4,ARKANSAS
+state_code,,5,CALIFORNIA
+state_code,,6,COLORADO
+state_code,,7,CONNECTICUT
+state_code,,8,DELAWARE
+state_code,,9,DISTRICT OF COLUMBIA
+state_code,,10,FLORIDA
+state_code,,11,GEORGIA
+state_code,,12,HAWAII
+state_code,,13,IDAHO
+state_code,,14,ILLINOIS
+state_code,,15,INDIANA
+state_code,,16,IOWA
+state_code,,17,KANSAS
+state_code,,18,KENTUCKY
+state_code,,19,LOUISIANA
+state_code,,20,MAINE
+state_code,,21,MARYLAND
+state_code,,22,MASSACHUSETTS
+state_code,,23,MICHIGAN
+state_code,,24,MINNESOTA
+state_code,,25,MISSISSIPPI
+state_code,,26,MISSOURI
+state_code,,27,MONTANA
+state_code,,28,NEBRASKA
+state_code,,29,NEVADA
+state_code,,30,NEW HAMPSHIRE
+state_code,,31,NEW JERSEY
+state_code,,32,NEW MEXICO
+state_code,,33,NEW YORK
+state_code,,34,NORTH CAROLINA
+state_code,,35,NORTH DAKOTA
+state_code,,36,OHIO
+state_code,,37,OKLAHOMA
+state_code,,38,OREGON
+state_code,,39,PENNSYLVANIA
+state_code,,40,RHODE ISLAND
+state_code,,41,SOUTH CAROLINA
+state_code,,42,SOUTH DAKOTA
+state_code,,43,TENNESSEE
+state_code,,44,TEXAS
+state_code,,45,UTAH
+state_code,,46,VERMONT
+state_code,,47,VIRGINIA
+state_code,,48,WASHINGTON
+state_code,,49,WEST VIRGINIA
+state_code,,50,WISCONSIN
+state_code,,51,WYOMING
+state_code,,52,NOT APPLICABLE
+state_code,,53,American Samoa
+state_code,,54,Federated States of Micronesia
+state_code,,55,Guam
+state_code,,56,Marshall Islands
+state_code,,57,Northern Mariana Islands
+state_code,,58,Palau
+state_code,,59,Puerto Rico
+state_code,,60,Virgin Islands
+ethnicity_code,,1,White
+ethnicity_code,,2,Black or African American
+ethnicity_code,,3,American Indian or Alaska Native
+ethnicity_code,,4,Asian - Asian Indian
+ethnicity_code,,5,Asian - Chinese
+ethnicity_code,,6,Asian - Filipino
+ethnicity_code,,7,Asian - Japanese
+ethnicity_code,,8,Asian - Korean
+ethnicity_code,,9,Asian - Vietnamese
+ethnicity_code,,10,Asian - Other
+ethnicity_code,,11,Pacific Islander - Native Hawaiian
+ethnicity_code,,12,Pacific Islander - Gaumanian
+ethnicity_code,,13,Pacific Islander - Samoan
+ethnicity_code,,14,Pacific Islander - Other Pacific Islander
+ethnicity_code,,15,Some other race
+ethnicity_code,,16,Prefer not to answer
+hispanic_code,,1,"No, not of Hispanic, Latino or Spanish origin"
+hispanic_code,,2,"Yes, Mexican, Mexican American, Chicano"
+hispanic_code,,3,"Yes, Cuban"
+hispanic_code,,4,"Yes, another Hispanic, Latino or Spanish origin - Argentina"
+hispanic_code,,5,"Yes, another Hispanic, Latino or Spanish origin - Colombia"
+hispanic_code,,6,"Yes, another Hispanic, Latino or Spanish origin - Equador"
+hispanic_code,,7,"Yes, another Hispanic, Latino or Spanish origin - El Salvador"
+hispanic_code,,8,"Yes, another Hispanic, Latino or Spanish origin - Guatemala"
+hispanic_code,,9,"Yes, another Hispanic, Latino or Spanish origin - Nicaragua"
+hispanic_code,,10,"Yes, another Hispanic, Latino or Spanish origin - Panama"
+hispanic_code,,11,"Yes, another Hispanic, Latino or Spanish origin - Peru"
+hispanic_code,,12,"Yes, another Hispanic, Latino or Spanish origin - Spain"
+hispanic_code,,13,"Yes, another Hispanic, Latino or Spanish origin - Venezuela"
+hispanic_code,,14,"Yes, another Hispanic, Latino or Spanish origin - Other Country"
+hispanic_code,,15,Prefer not to answer
